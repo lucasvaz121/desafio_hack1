@@ -1,14 +1,33 @@
 import random
 
+
+
 perguntas = [
     {
-        "pergunta": "Qual é o idioma oficial do Japão?",
+        "pergunta": """
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜🔴🔴⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜🔴🔴🔴🔴⬜⬜⬜⬜⬜
+⬜⬜⬜⬜🔴🔴🔴🔴🔴🔴⬜⬜⬜⬜
+⬜⬜⬜⬜🔴🔴🔴🔴🔴🔴⬜⬜⬜⬜
+⬜⬜⬜⬜⬜🔴🔴🔴🔴⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜🔴🔴⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\nQual é o idioma oficial do Japão?""",
         "opcoes": ["Chinês", "Coreano", "Japonês", "Tailandês"],
         "resposta": "Japonês",
         "explicacao": "O idioma oficial do Japão é o japonês, falado por mais de 125 milhões de pessoas."
     },
     {
-        "pergunta": "Como funciona o sistema de educação na Alemanha?",
+        "pergunta": """
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\nComo funciona o sistema de educação na Alemanha?""",
         "opcoes": [
             "Ensino único até à universidade",
             "Divisão em três vias após o ensino básico",
@@ -19,7 +38,15 @@ perguntas = [
         "explicacao": "Na Alemanha, os alunos são divididos em três tipos de escolas secundárias com base no desempenho."
     },
     {
-        "pergunta": "Quais são as tradições do Dia dos Mortos no México?",
+        "pergunta": """
+🟩🟩🟩🟩🟩🟩 ⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟩 ⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟩 ⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟩 ⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟩 ⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟩 ⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟩 ⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥
+        \nQuais são as tradições do Dia dos Mortos no México?""",
         "opcoes": [
             "Festas com fogos de artifício",
             "Culto às árvores",
@@ -47,6 +74,7 @@ for pergunta in perguntas:
         pontuacao += 10
     else:
         print("\n Resposta incorreta.")
+        pontuacao -= 5
     print("Explicação:", pergunta["explicacao"])
     print("Pontuação atual:", pontuacao)
     print("\n" + "-"*40 + "\n")
