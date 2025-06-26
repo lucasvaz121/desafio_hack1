@@ -1,0 +1,521 @@
+[
+    {
+        "pergunta": "Qual é o idioma oficial do Japão?",
+        "opcoes": [
+            "Mandarim",
+            "Coreano",
+            "Japonês",
+            "Cantonês"
+        ],
+        "resposta_correta": "Japonês",
+        "explicacao": "O japonês é a língua nacional do Japão, falada por mais de 125 milhões de pessoas. É conhecida por seus três sistemas de escrita: Hiragana, Katakana e Kanji."
+    },
+    {
+        "pergunta": "Como funciona o sistema de educação na Alemanha?",
+        "opcoes": [
+            "Centralizado pelo governo federal",
+            "Descentralizado e administrado pelos estados",
+            "Baseado em um único currículo nacional",
+            "Prioriza o ensino técnico em detrimento do acadêmico"
+        ],
+        "resposta_correta": "Descentralizado e administrado pelos estados",
+        "explicacao": "Na Alemanha, a educação é de responsabilidade dos 16 estados (Länder), o que gera variações nos currículos e estruturas. Após o ensino fundamental, os alunos são direcionados para diferentes tipos de escolas baseadas em seu desempenho."
+    },
+    {
+        "pergunta": "Quais são as tradições do Dia dos Mortos no México?",
+        "opcoes": [
+            "Festa do disfarce de monstros",
+            "Troca de presentes natalinos",
+            "Construção de altares para entes queridos falecidos",
+            "Queima de fogos de artifício no ano novo"
+        ],
+        "resposta_correta": "Construção de altares para entes queridos falecidos",
+        "explicacao": "O Dia dos Mortos (Día de Muertos) é uma celebração colorida no México, onde as famílias constroem altares (ofrendas) para honrar e lembrar seus entes queridos que já se foram, oferecendo suas comidas e bebidas favoritas."
+    },
+    {
+        "pergunta": "Qual é a capital da Coreia do Sul?",
+        "opcoes": [
+            "Busan",
+            "Incheon",
+            "Seul",
+            "Gyeongju"
+        ],
+        "resposta_correta": "Seul",
+        "explicacao": "Seul é a capital e a maior metrópole da Coreia do Sul, conhecida por sua mistura de palácios antigos, templos budistas, arranha-céus modernos e cultura pop vibrante."
+    },
+    {
+        "pergunta": "O que é o 'curry' na culinária indiana?",
+        "opcoes": [
+            "Uma fruta exótica",
+            "Um tipo de pão",
+            "Uma mistura de especiarias e pratos",
+            "Uma bebida tradicional"
+        ],
+        "resposta_correta": "Uma mistura de especiarias e pratos",
+        "explicacao": "Na culinária indiana, 'curry' refere-se a uma vasta gama de pratos que usam uma complexa mistura de especiarias (masala) e que podem ser feitos com carne, vegetais, ou leguminosas."
+    },
+    {
+        "pergunta": "Qual é a prática cultural japonesa de arranjo floral?",
+        "opcoes": [
+            "Origami",
+            "Bonsai",
+            "Ikebana",
+            "Haiku"
+        ],
+        "resposta_correta": "Ikebana",
+        "explicacao": "Ikebana é a arte japonesa de arranjo floral, que busca harmonizar elementos como o vaso, as flores e os galhos, expressando sentimentos e a relação com a natureza."
+    },
+    {
+        "pergunta": "Em qual país o sistema educacional é conhecido por ter um dos maiores índices de leitura e proficiência em ciências e matemática, focando na equidade e no treinamento de professores?",
+        "opcoes": [
+            "Estados Unidos",
+            "Finlândia",
+            "China",
+            "Brasil"
+        ],
+        "resposta_correta": "Finlândia",
+        "explicacao": "O sistema educacional da Finlândia é mundialmente reconhecido por sua excelência, com foco na equidade, na autonomia dos professores e em um currículo menos padronizado, o que resulta em altos índices de aprendizado."
+    },
+    {
+        "pergunta": "Qual é o principal objetivo do programa Erasmus+ na educação superior europeia?",
+        "opcoes": [
+            "Promover a competição acadêmica entre universidades",
+            "Incentivar o intercâmbio de estudantes e docentes",
+            "Centralizar os currículos universitários na Europa",
+            "Financiar pesquisas científicas em tecnologia"
+        ],
+        "resposta_correta": "Incentivar o intercâmbio de estudantes e docentes",
+        "explicacao": "O Erasmus+ é um programa da União Europeia que visa apoiar a educação, formação, juventude e desporto, com forte foco na mobilidade e intercâmbio de estudantes e profissionais do ensino superior."
+    },
+    {
+        "pergunta": "Em que país se originou a dança do Tango?",
+        "opcoes": [
+            "Espanha",
+            "Brasil",
+            "Argentina",
+            "México"
+        ],
+        "resposta_correta": "Argentina",
+        "explicacao": "O Tango é uma expressão cultural rica em dança e música, que nasceu nas áreas portuárias de Buenos Aires, Argentina, e Montevidéu, Uruguai, no final do século XIX."
+    },
+    {
+        "pergunta": "Qual sistema de escrita é amplamente utilizado no Egito Antigo?",
+        "opcoes": [
+            "Escrita Cuneiforme",
+            "Hieróglifos",
+            "Alfabeto Fenício",
+            "Latim"
+        ],
+        "resposta_correta": "Hieróglifos",
+        "explicacao": "Os hieróglifos egípcios eram um sistema de escrita formal usado pelos antigos egípcios, combinando elementos logográficos, silábicos e alfabéticos, e são famosos por seus desenhos pictóricos."
+    },
+    {
+        "pergunta": "Qual país é conhecido por ter um sistema educacional que inclui escolas primárias e secundárias combinadas em uma única estrutura, sem divisão clara entre as etapas?",
+        "opcoes": [
+            "Canadá",
+            "França",
+            "Alemanha",
+            "Noruega"
+        ],
+        "resposta_correta": "Noruega",
+        "explicacao": "A Noruega adota um sistema de 'escola unificada' (grunnskole) para os primeiros 10 anos de educação, promovendo a igualdade de acesso e a progressão contínua dos alunos."
+    },
+    {
+        "pergunta": "Qual é o significado da festividade chinesa do Ano Novo Lunar?",
+        "opcoes": [
+            "Comemoração da fundação da China",
+            "Início da colheita de arroz",
+            "Celebração do ciclo lunar e da primavera",
+            "Luto pelos ancestrais"
+        ],
+        "resposta_correta": "Celebração do ciclo lunar e da primavera",
+        "explicacao": "O Ano Novo Lunar, também conhecido como Festival da Primavera na China, é a mais importante festa tradicional chinesa, celebrando o novo ciclo lunar e a chegada da primavera, com reuniões familiares e rituais de prosperidade."
+    },
+    {
+        "pergunta": "Qual idioma é considerado uma 'língua franca' global, especialmente nos negócios e na ciência?",
+        "opcoes": [
+            "Chinês Mandarim",
+            "Espanhol",
+            "Inglês",
+            "Árabe"
+        ],
+        "resposta_correta": "Inglês",
+        "explicacao": "O inglês é amplamente aceito como a principal língua franca global, facilitando a comunicação internacional em diversas áreas como diplomacia, negócios, ciência, aviação e internet."
+    },
+    {
+        "pergunta": "No contexto da educação superior internacional, o que significa 'bolonha' (Processo de Bolonha)?",
+        "opcoes": [
+            "Uma cidade italiana famosa por universidades",
+            "Um acordo para padronizar diplomas universitários na Europa",
+            "Um tipo de bolsa de estudos internacional",
+            "Um sistema de avaliação de professores universitários"
+        ],
+        "resposta_correta": "Um acordo para padronizar diplomas universitários na Europa",
+        "explicacao": "O Processo de Bolonha é uma série de acordos ministeriais que visam harmonizar e padronizar o ensino superior em toda a Europa, facilitando o reconhecimento de diplomas e a mobilidade de estudantes e profissionais."
+    },
+    {
+        "pergunta": "Qual é o nome do tradicional chapéu cônico de palha muito usado no Vietnã?",
+        "opcoes": [
+            "Sombrero",
+            "Fez",
+            "Conical Hat (Non La)",
+            "Beret"
+        ],
+        "resposta_correta": "Conical Hat (Non La)",
+        "explicacao": "O 'Non La' é um icônico chapéu cônico de palha, símbolo cultural do Vietnã, usado por agricultores e pessoas comuns para proteção contra o sol e a chuva, e também como um item decorativo."
+    },
+    {
+        "pergunta": "Qual idioma é a base do Esperanto, uma língua artificial criada para ser universal?",
+        "opcoes": [
+            "Não possui uma base específica, é totalmente nova",
+            "Principalmente latim e línguas românicas",
+            "Principalmente línguas germânicas",
+            "Uma mistura de línguas eslavas"
+        ],
+        "resposta_correta": "Principalmente latim e línguas românicas",
+        "explicacao": "O Esperanto foi criado por L. L. Zamenhof com o objetivo de ser uma língua universal e neutra. Sua gramática é regular e seu vocabulário deriva principalmente do latim e de línguas românicas, com algumas influências germânicas e eslavas."
+    },
+    {
+        "pergunta": "Qual é a cidade conhecida como o berço da Renascença e que abrigou importantes escolas de arte e pensamento?",
+        "opcoes": [
+            "Roma - Itália",
+            "Paris - França",
+            "Londres -  Reino Unido",
+            "Florença - Itália"
+        ],
+        "resposta_correta": "Florença - Itália",
+        "explicacao": "Florença, na Itália, é amplamente considerada o berço da Renascença, sendo um centro de efervescência artística, cultural e intelectual nos séculos XIV a XVI, com o surgimento de grandes mestres como Leonardo da Vinci e Michelangelo."
+    },
+    [
+        {
+            "pergunta": "Qual é a celebração cultural chinesa famosa pelos desfiles de dragões e leões, e pela distribuição de envelopes vermelhos com dinheiro?",
+            "opcoes": [
+                "Festival do Meio Outono",
+                "Festival da Primavera (Ano Novo Lunar)",
+                "Festival Qingming",
+                "Festival do Barco Dragão"
+            ],
+            "resposta_correta": "Festival da Primavera (Ano Novo Lunar)",
+            "explicacao": "O Festival da Primavera, ou Ano Novo Lunar, é a celebração mais importante na China e em outras culturas asiáticas, marcando o início do ano no calendário lunissolar e sendo repleto de rituais para atrair boa sorte e prosperidade."
+        },
+        {
+            "pergunta": "Em qual país o sistema educacional é conhecido por um ensino fundamental altamente igualitário, sem exames nacionais até o ensino médio?",
+            "opcoes": [
+                "Coreia do Sul",
+                "Estados Unidos",
+                "Finlândia",
+                "Japão"
+            ],
+            "resposta_correta": "Finlândia",
+            "explicacao": "A Finlândia é famosa por seu sistema educacional que enfatiza a equidade, com poucos exames padronizados e um foco no desenvolvimento integral do aluno, resultando em altos níveis de desempenho."
+        },
+        {
+            "pergunta": "Qual é o idioma mais falado no mundo em número de falantes nativos?",
+            "opcoes": [
+                "Inglês",
+                "Espanhol",
+                "Mandarim",
+                "Hindi"
+            ],
+            "resposta_correta": "Mandarim",
+            "explicacao": "O Mandarim, a principal forma do chinês, tem o maior número de falantes nativos do mundo, superando o inglês e o espanhol."
+        },
+        {
+            "pergunta": "Qual famoso monumento egípcio guarda a esfinge de Gizé?",
+            "opcoes": [
+                "Templo de Karnak",
+                "Pirâmide de Quéops",
+                "Vale dos Reis",
+                "Templo de Luxor"
+            ],
+            "resposta_correta": "Pirâmide de Quéops",
+            "explicacao": "A Grande Esfinge de Gizé está localizada na margem oeste do rio Nilo, em Gizé, e fica em frente à pirâmide de Quéops, fazendo parte do complexo funerário da antiga civilização egípcia."
+        },
+        {
+            "pergunta": "Qual é o nome da arte marcial sul-coreana que se destaca por seus chutes e saltos?",
+            "opcoes": [
+                "Judô",
+                "Karatê",
+                "Taekwondo",
+                "Kung Fu"
+            ],
+            "resposta_correta": "Taekwondo",
+            "explicacao": "O Taekwondo é uma arte marcial coreana que se caracteriza pela técnica de luta, com golpes precisos de pernas e punhos, e se tornou um esporte olímpico."
+        },
+        {
+            "pergunta": "No contexto universitário, o que significa 'Crédito ECTS' (European Credit Transfer and Accumulation System)?",
+            "opcoes": [
+                "Um sistema de empréstimos estudantis na Europa",
+                "Um método de avaliação de desempenho acadêmico",
+                "Um padrão para quantificar o trabalho do estudante em cursos superiores na Europa",
+                "Um tipo de bolsa de estudos para alunos de intercâmbio"
+            ],
+            "resposta_correta": "Um padrão para quantificar o trabalho do estudante em cursos superiores na Europa",
+            "explicacao": "O ECTS é um sistema de créditos projetado para facilitar o reconhecimento de estudos e a mobilidade de estudantes dentro do Espaço Europeu de Ensino Superior, padronizando a carga de trabalho acadêmica."
+        },
+        {
+            "pergunta": "Qual é o idioma oficial do Brasil?",
+            "opcoes": [
+                "Espanhol",
+                "Português",
+                "Inglês",
+                "Francês"
+            ],
+            "resposta_correta": "Português",
+            "explicacao": "O português é o idioma oficial do Brasil, sendo o país lusófono mais populoso do mundo."
+        },
+        {
+            "pergunta": "Qual é o nome do festival indiano das cores, que celebra a chegada da primavera e o triunfo do bem sobre o mal?",
+            "opcoes": [
+                "Diwali",
+                "Holi",
+                "Navaratri",
+                "Durga Puja"
+            ],
+            "resposta_correta": "Holi",
+            "explicacao": "Holi, o Festival das Cores, é uma celebração hindu popular na Índia e em outras partes do mundo, onde as pessoas se jogam tintas em pó coloridas e água para celebrar a alegria e a renovação da primavera."
+        },
+        {
+            "pergunta": "Qual destes países não faz parte do Reino Unido?",
+            "opcoes": [
+                "Escócia",
+                "Irlanda do Norte",
+                "País de Gales",
+                "República da Irlanda"
+            ],
+            "resposta_correta": "República da Irlanda",
+            "explicacao": "O Reino Unido é composto por Inglaterra, Escócia, País de Gales e Irlanda do Norte. A República da Irlanda é um país independente."
+        },
+        {
+            "pergunta": "Qual é a bebida nacional da Argentina, frequentemente compartilhada em um ritual social?",
+            "opcoes": [
+                "Café",
+                "Chá",
+                "Cerveja",
+                "Chimarrão (Mate)"
+            ],
+            "resposta_correta": "Chimarrão (Mate)",
+            "explicacao": "O chimarrão, ou mate, é uma bebida tradicional à base de erva-mate, muito popular na Argentina, Uruguai, Paraguai e sul do Brasil, e é um símbolo de hospitalidade e convívio social."
+        },
+        {
+            "pergunta": "Qual é a cidade italiana famosa por seus canais e gôndolas?",
+            "opcoes": [
+                "Roma",
+                "Milão",
+                "Florença",
+                "Veneza"
+            ],
+            "resposta_correta": "Veneza",
+            "explicacao": "Veneza é uma cidade única no nordeste da Itália, construída sobre um grupo de 118 pequenas ilhas separadas por canais e ligadas por pontes, famosa por suas gôndolas e arquitetura deslumbrante."
+        },
+        {
+            "pergunta": "Qual sistema educacional é conhecido por sua rigorosa educação pré-escolar e alta pressão acadêmica desde cedo, visando o sucesso em exames de admissão universitária?",
+            "opcoes": [
+                "Canadá",
+                "Coreia do Sul",
+                "Alemanha",
+                "Austrália"
+            ],
+            "resposta_correta": "Coreia do Sul",
+            "explicacao": "O sistema educacional sul-coreano é conhecido por sua intensa competitividade e foco em exames, com estudantes frequentemente dedicando longas horas a estudos complementares (hagwons) para garantir vagas em universidades de prestígio."
+        },
+        {
+            "pergunta": "Qual idioma é o mais falado na África em termos de número total de falantes (nativos e não nativos)?",
+            "opcoes": [
+                "Zulu",
+                "Árabe",
+                "Suaili (Swahili)",
+                "Hauçá (Hausa)"
+            ],
+            "resposta_correta": "Suaili (Swahili)",
+            "explicacao": "O Suaili é uma língua bantu amplamente falada na África Oriental, servindo como língua franca em países como Quênia, Tanzânia e Uganda."
+        },
+        {
+            "pergunta": "Qual é o principal desafio enfrentado por estudantes internacionais que se mudam para um novo país?",
+            "opcoes": [
+                "Excesso de tempo livre",
+                "Dificuldade em encontrar acomodação",
+                "Barreira linguística e adaptação cultural",
+                "Poucas opções de disciplinas"
+            ],
+            "resposta_correta": "Barreira linguística e adaptação cultural",
+            "explicacao": "Apesar de outros desafios existirem, a barreira linguística e a adaptação a uma nova cultura são frequentemente os maiores obstáculos para estudantes internacionais, impactando sua comunicação, vida social e desempenho acadêmico."
+        },
+        {
+            "pergunta": "Qual é o festival tailandês onde lanternas de papel são lançadas ao céu e flores de lótus flutuam na água?",
+            "opcoes": [
+                "Songkran",
+                "Loy Krathong",
+                "Festival Vegetariano",
+                "Makha Bucha"
+            ],
+            "resposta_correta": "Loy Krathong",
+            "explicacao": "Loy Krathong é um belo festival na Tailândia onde as pessoas liberam cestas decoradas (krathongs) feitas de folhas de bananeira e flores em rios e lagos, e lançam lanternas ao céu, em uma celebração de luz e esperança."
+        },
+        {
+            "pergunta": "Qual é o nome do sistema de escrita japonês derivado de caracteres chineses?",
+            "opcoes": [
+                "Hiragana",
+                "Katakana",
+                "Romaji",
+                "Kanji"
+            ],
+            "resposta_correta": "Kanji",
+            "explicacao": "Kanji são os caracteres chineses usados no sistema de escrita japonês moderno, representando palavras e conceitos, e são complementados pelos silabários Hiragana e Katakana."
+        },
+        {
+            "pergunta": "Qual país escandinavo é conhecido por seu modelo educacional que oferece educação gratuita em todos os níveis, incluindo o ensino superior, mesmo para estudantes internacionais?",
+            "opcoes": [
+                "Suécia",
+                "Dinamarca",
+                "Noruega",
+                "Finlândia"
+            ],
+            "resposta_correta": "Noruega",
+            "explicacao": "A Noruega se destaca por oferecer educação gratuita em universidades e faculdades públicas para todos os estudantes, independentemente de sua nacionalidade, o que a torna um destino atraente para o estudo internacional."
+        },
+        {
+            "pergunta": "Qual é a cidade que abriga o Coliseu e o Fórum Romano?",
+            "opcoes": [
+                "Atenas",
+                "Nápoles",
+                "Roma",
+                "Cairo"
+            ],
+            "resposta_correta": "Roma",
+            "explicacao": "Roma, a capital da Itália, é famosa por sua rica história e por abrigar marcos icônicos como o Coliseu, um anfiteatro da Roma Antiga, e o Fórum Romano, o centro da vida pública na Roma antiga."
+        },
+        {
+            "pergunta": "O que significa a sigla 'TOEFL' ou 'IELTS' no contexto da educação internacional?",
+            "opcoes": [
+                "Tipos de bolsas de estudo",
+                "Testes de proficiência em inglês",
+                "Requisitos de visto para estudantes",
+                "Programas de intercâmbio cultural"
+            ],
+            "resposta_correta": "Testes de proficiência em inglês",
+            "explicacao": "TOEFL (Test of English as a Foreign Language) e IELTS (International English Language Testing System) são exames padronizados que avaliam a proficiência na língua inglesa de falantes não nativos, frequentemente exigidos para admissão em universidades de países de língua inglesa."
+        },
+        {
+            "pergunta": "Qual é a dança e expressão cultural que se originou nas favelas do Rio de Janeiro, Brasil?",
+            "opcoes": [
+                "Frevo",
+                "Forró",
+                "Samba",
+                "Capoeira"
+            ],
+            "resposta_correta": "Samba",
+            "explicacao": "O samba é um dos gêneros musicais mais reconhecidos do Brasil e um símbolo de sua cultura, com raízes afro-brasileiras e grande desenvolvimento nas comunidades do Rio de Janeiro."
+        },
+        {
+            "pergunta": "Qual é o nome do sistema de escrita árabe?",
+            "opcoes": [
+                "Alfabeto Cirílico",
+                "Alfabeto Grego",
+                "Abjad",
+                "Devanagari"
+            ],
+            "resposta_correta": "Abjad",
+            "explicacao": "O Abjad é um tipo de sistema de escrita onde cada símbolo representa uma consoante, e as vogais são indicadas por diacríticos ou subentendidas, como é o caso do alfabeto árabe."
+        },
+        {
+            "pergunta": "Qual país é conhecido por ter um sistema educacional com forte ênfase na disciplina e no respeito aos mais velhos, onde as escolas são frequentemente limpas pelos próprios alunos?",
+            "opcoes": [
+                "Estados Unidos",
+                "Japão",
+                "Índia",
+                "Rússia"
+            ],
+            "resposta_correta": "Japão",
+            "explicacao": "O sistema educacional japonês é notável por seu foco na disciplina, respeito e responsabilidade cívica, incluindo a prática de os próprios alunos limparem suas escolas como parte de sua educação de caráter."
+        },
+        {
+            "pergunta": "Qual é o idioma oficial da Nova Zelândia, além do inglês?",
+            "opcoes": [
+                "Samoano",
+                "Fijiano",
+                "Maori",
+                "Tonguês"
+            ],
+            "resposta_correta": "Maori",
+            "explicacao": "O Maori (Te Reo Māori) é o idioma indígena da Nova Zelândia e uma de suas línguas oficiais, junto com o inglês e a Língua de Sinais da Nova Zelândia."
+        },
+        {
+            "pergunta": "Qual é o nome do famoso muro construído na China para proteger suas fronteiras?",
+            "opcoes": [
+                "Muralha de Adriano",
+                "Muralha de Berlim",
+                "Muralha da China",
+                "Muralha de Jericó"
+            ],
+            "resposta_correta": "Muralha da China",
+            "explicacao": "A Grande Muralha da China é uma série de fortificações construídas ao longo das fronteiras históricas do norte da China para proteger o Império Chinês de invasões."
+        },
+        {
+            "pergunta": "No sistema educacional dos Estados Unidos, o que é um 'community college'?",
+            "opcoes": [
+                "Uma universidade de pesquisa de elite",
+                "Uma escola secundária vocacional",
+                "Uma instituição de ensino superior de dois anos, que oferece cursos técnicos e transferência para universidades",
+                "Um centro de treinamento militar"
+            ],
+            "resposta_correta": "Uma instituição de ensino superior de dois anos, que oferece cursos técnicos e transferência para universidades",
+            "explicacao": "Community colleges nos EUA oferecem diplomas de associado (dois anos), treinamento vocacional e cursos de nível universitário que podem ser transferidos para universidades de quatro anos, sendo uma opção mais acessível."
+        },
+        {
+            "pergunta": "Qual é a religião predominante na Índia?",
+            "opcoes": [
+                "Budismo",
+                "Islamismo",
+                "Cristianismo",
+                "Hinduísmo"
+            ],
+            "resposta_correta": "Hinduísmo",
+            "explicacao": "O Hinduísmo é a religião predominante na Índia e uma das mais antigas do mundo, caracterizada por uma diversidade de crenças, rituais e deidades."
+        },
+        {
+            "pergunta": "Qual idioma é falado na maior parte da América do Sul, além do português?",
+            "opcoes": [
+                "Francês",
+                "Alemão",
+                "Espanhol",
+                "Italiano"
+            ],
+            "resposta_correta": "Espanhol",
+            "explicacao": "O espanhol é o idioma oficial na maioria dos países da América do Sul, com exceção do Brasil (Português), Guiana (Inglês), Suriname (Holandês) e Guiana Francesa (Francês)."
+        },
+        {
+            "pergunta": "Qual famoso evento cultural da Alemanha é conhecido por sua celebração da cerveja e da cultura bávara?",
+            "opcoes": [
+                "Carnaval de Colônia",
+                "Festival de Cinema de Berlim",
+                "Oktoberfest",
+                "Mercados de Natal"
+            ],
+            "resposta_correta": "Oktoberfest",
+            "explicacao": "A Oktoberfest é o maior festival de cerveja do mundo, realizado anualmente em Munique, Alemanha, e celebra a cultura bávara com muita comida, música e trajes típicos."
+        },
+        {
+            "pergunta": "Qual é o termo para o conceito educacional que visa preparar os estudantes para serem cidadãos globais, conscientes das interconexões mundiais?",
+            "opcoes": [
+                "Educação Nacionalista",
+                "Educação Corporativa",
+                "Educação para a Cidadania Global",
+                "Educação Técnica"
+            ],
+            "resposta_correta": "Educação para a Cidadania Global",
+            "explicacao": "A Educação para a Cidadania Global (ECG) é uma abordagem que visa capacitar os alunos a abordar desafios globais e ser proativamente construtivos para um mundo mais pacífico, tolerante, inclusivo e seguro."
+        },
+        {
+            "pergunta": "Qual é o nome da arte marcial brasileira que combina elementos de dança, música e acrobacias?",
+            "opcoes": [
+                "Jiu-Jitsu",
+                "Muay Thai",
+                "Capoeira",
+                "Krav Maga"
+            ],
+            "resposta_correta": "Capoeira",
+            "explicacao": "A capoeira é uma expressão cultural afro-brasileira que une elementos de arte marcial, esporte, cultura popular, dança e música. Foi desenvolvida no Brasil por descendentes de escravos africanos."
+        }
+    ]
+]
