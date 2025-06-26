@@ -2,5 +2,13 @@
     {
         "nome": "Nelson",
         "pontuacao": 230
+    },
+    {
+        "nome": "Rodrigo",
+        "pontuacao": 20
+    },
+    {
+        "nome": "André",
+        "pontuacao": 30
     }
 ]
